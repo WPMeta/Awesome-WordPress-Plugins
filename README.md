@@ -164,9 +164,27 @@ List of friendly, easily usable GPL plugins in WordPress Ecosystem. List by [WPM
 
 ### Testimonials
 ### Typography
+  - [Redux Framework](https://wordpress.org/plugins/redux-framework/)
+	- [Google Typography](https://wordpress.org/plugins/google-typography/)
+	- [Easy Google Fonts](https://wordpress.org/plugins/easy-google-fonts/)
+	- [WP Google Fonts](https://wordpress.org/plugins/wp-google-fonts/)
+	- [Seed Fonts](https://wordpress.org/plugins/seed-fonts/)
 ### Theme Test Plugin
+  - [Theme Check](https://wordpress.org/plugins/theme-check/)
+	- [Theme Sniffer](https://wordpress.org/plugins/theme-sniffer/)
 ### Taxonomy Plugins
+  - [Category Order and Taxonomy Terms Order](https://wordpress.org/plugins/taxonomy-terms-order/)
+	- [Related Posts by Taxonomy](https://wordpress.org/plugins/related-posts-by-taxonomy/)
+	- [Simple Taxonomy Ordering](https://wordpress.org/plugins/simple-taxonomy-ordering/)
+	- [Custom Taxonomy Order](https://wordpress.org/plugins/custom-taxonomy-order-ne/)
+	- [List Custom Taxonomy Widget](https://wordpress.org/plugins/list-custom-taxonomy-widget/)
 ### Underconstruction Plugin
+  - [Coming Soon Page & Maintenance Mode by SeedProd](https://wordpress.org/plugins/coming-soon/)
+	- [WP Maintenance Mode](https://wordpress.org/plugins/wp-maintenance-mode/)
+	- [Minimal Coming Soon & Maintenance Mode](https://wordpress.org/plugins/minimal-coming-soon-maintenance-mode/)
+	- [Maintenance](https://wordpress.org/plugins/maintenance/)
+	- [Under Construction](https://wordpress.org/plugins/under-construction-page/)
+	- [CMP – Coming Soon & Maintenance Plugin by NiteoThemes](https://wordpress.org/plugins/cmp-coming-soon-maintenance/)
 ### WooCommerce
 
 
