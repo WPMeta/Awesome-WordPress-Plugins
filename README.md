@@ -15,6 +15,7 @@ List of friendly, easily usable GPL plugins in WordPress Ecosystem. List by [WPM
 - [WP Statistics](https://wordpress.org/plugins/wp-statistics/)
 - [WP-Matomo (WP-Piwik)](https://wordpress.org/plugins/wp-piwik/)
 - [Jetpack](https://wordpress.org/plugins/jetpack/)
+- [Facebook Pixel](https://wordpress.org/plugins/official-facebook-pixel/)
 
 ### AMP Plugins
 - [Official AMP Plugin](https://wordpress.org/plugins/amp/)
@@ -130,61 +131,154 @@ List of friendly, easily usable GPL plugins in WordPress Ecosystem. List by [WPM
 - [NextGen Gallery](https://wordpress.org/plugins/nextgen-gallery/)
 
 ### GDPR Compliance Plugins
+- [Cookie Notice](https://wordpress.org/plugins/cookie-notice/)
+- [GDPR Cookie Consent](https://wordpress.org/plugins/cookie-law-info/)
+- [Consent Banner](https://wordpress.org/plugins/uk-cookie-consent/)
+
 ### Google Maps
+- [WP Google Maps](https://wordpress.org/plugins/wp-google-maps/)
+
 ### Gutenberg Blocks
+
 ### Images Optimizer
+- [Smush by WPMU Dev](https://wordpress.org/plugins/wp-smushit/)
+- [EWWW Image Optimizer](https://wordpress.org/plugins/ewww-image-optimizer/)
+- [Compress JPEG & PNG Images by TinyPNG](https://wordpress.org/plugins/tiny-compress-images/)
+
 ### Live Chat Plugins
+- [WP Live Chat Support](https://wordpress.org/plugins/wp-live-chat-support/)
+- [Tidio Live Chat](https://wordpress.org/plugins/tidio-live-chat/)
+- [Tawk.To Live Chat](https://wordpress.org/plugins/tawkto-live-chat/)
+- [Messenger Customer Chat](https://wordpress.org/plugins/facebook-messenger-customer-chat/)
+
 ### LMS Plugins
+- [LearnDash](https://www.learndash.com/)
+- [LifterLMS](https://wordpress.org/plugins/lifterlms/)
+- [LearnPress](https://wordpress.org/plugins/learnpress/)
+
 ### Menu Plugins
+- [QuadMenu](https://wordpress.org/plugins/quadmenu/)
+- [WP Mega Menu](https://wordpress.org/plugins/wp-megamenu/)
+- [Max mega Menu](https://wordpress.org/plugins/megamenu/)
+- [Nav Menu Roles](https://wordpress.org/plugins/nav-menu-roles/)
+
 ### Membership & User Managements
-### Migration
+- [Ultimate Member](https://wordpress.org/plugins/ultimate-member/)
+- [Paid Membership Pro](https://wordpress.org/plugins/paid-memberships-pro/)
+- [S2Member](https://wordpress.org/plugins/s2member/)
+- [User Role Editor](https://wordpress.org/plugins/user-role-editor/)
+
 ### Mobile App Generators
+- [AppMaker](https://wordpress.org/plugins/appmaker-woocommerce-mobile-app-manager/)
+- [MobiLoud](https://wordpress.org/plugins/mobiloud-mobile-app-plugin/)
+
 ### Multilingual
+
+
 ### Newsletter
+- [Mailchimp for WordPress](https://wordpress.org/plugins/mailchimp-for-wp/)
+- [Email Subscriber & Newsletter by Icegram](https://wordpress.org/plugins/email-subscribers/)
+- [Newsletter](https://wordpress.org/plugins/newsletter/)
+- [MailPoet](https://wordpress.org/plugins/mailpoet/)
+
 ### Notification 
+- [OneSignal](https://wordpress.org/plugins/onesignal-free-web-push-notifications/)
+- [WP Telegram](https://wordpress.org/plugins/wptelegram/)
+
 ### Optimization
+- [Autoptimize](https://wordpress.org/plugins/autoptimize/)
+
 ### Page Builders
+- [Page builder by Site Origin](https://wordpress.org/plugins/siteorigin-panels/)
+- [Elementor](https://wordpress.org/plugins/elementor/)
+- [Beaver Builder](https://wordpress.org/plugins/beaver-builder-lite-version/)
+- [Page Builder Sandwich](https://wordpress.org/plugins/page-builder-sandwich/)
+
+
 ### Page, Post Management
+- [Duplicate Post](https://wordpress.org/plugins/duplicate-post/)
+- [Post Type Order](https://wordpress.org/plugins/post-types-order/)
+
 ### Progressive Web Apps
+- [Super PWA](https://wordpress.org/plugins/super-progressive-web-apps/)
+- [WordPress Mobile Pack](https://wordpress.org/plugins/wordpress-mobile-pack/)
+- [PWA for WordPress](https://wordpress.org/plugins/pwa4wp/)
+
 ### Related Posts
 ### Redirect Management
 ### Search 
 ### Search Engine Optimization
+
 ### Security Plugins
+- [Wordfence Security – Firewall & Malware Scan](https://wordpress.org/plugins/wordfence/)
+- [iThemes Security (formerly Better WP Security)](https://wordpress.org/plugins/better-wp-security/)
+- [Sucuri Security – Auditing, Malware Scanner and Security Hardening](https://wordpress.org/plugins/sucuri-scanner/)
+- [Limit Login Attempts Reloaded](https://wordpress.org/plugins/limit-login-attempts-reloaded/)
+
 ### Social Media Share 
+- [Social Media Share Buttons & Social Sharing Icons](https://wordpress.org/plugins/ultimate-social-media-icons/)
+- [AddToAny Share Buttons](https://wordpress.org/plugins/add-to-any/)
+- [WordPress Share Buttons Plugin – AddThis](https://wordpress.org/plugins/addthis/)
+- [Social Sharing Buttons](https://wordpress.org/plugins/social-pug/)
+- [Twitter](https://wordpress.org/plugins/twitter/)
+
 ### Social Media Feeds
+- [10Web Instagram Feed – Instagram Gallery](https://wordpress.org/plugins/wd-instagram-feed/)
+- [Custom Facebook Feed](https://wordpress.org/plugins/custom-facebook-feed/)
+- [Feed Them Social – Facebook, Instagram, Twitter, YouTube & Pinterest](https://wordpress.org/plugins/feed-them-social/)
+- [Custom Twitter Feeds](https://wordpress.org/plugins/custom-twitter-feeds/)
+- [WP to Twitter](https://wordpress.org/plugins/wp-to-twitter/)
+- [Instagram Feed](https://wordpress.org/plugins/instagram-feed/)
+- [Easy Twitter Feed Widget Plugin](https://wordpress.org/plugins/easy-twitter-feed-widget/)
+
 ### Sidebar & Widgets
+- [Widget Logic](https://wordpress.org/plugins/widget-logic/)
+
 ### Sliders
+- [Smart Slider 3](https://wordpress.org/plugins/smart-slider-3/)
+- [MetaSlider](https://wordpress.org/plugins/ml-slider/)
+- [Master Slider – Responsive Touch Slider](https://wordpress.org/plugins/master-slider/)
+- [Slider by Soliloquy – Responsive Image Slider for WordPress](https://wordpress.org/plugins/soliloquy-lite/)
+- [Slider by 10Web – Responsive Image Slider](https://wordpress.org/plugins/slider-wd/)
+
 ### SSL Management
 ### Table Management
 - [TablePress](https://wordpress.org/plugins/tablepress/)
 - [Easy Pricing Tables](https://wordpress.org/plugins/easy-pricing-tables/)
 - [Pricing Table](https://wordpress.org/plugins/tc-pricing-table/)
 
-
 ### Testimonials
-### Typography
-  - [Redux Framework](https://wordpress.org/plugins/redux-framework/)
-	- [Google Typography](https://wordpress.org/plugins/google-typography/)
-	- [Easy Google Fonts](https://wordpress.org/plugins/easy-google-fonts/)
-	- [WP Google Fonts](https://wordpress.org/plugins/wp-google-fonts/)
-	- [Seed Fonts](https://wordpress.org/plugins/seed-fonts/)
+- [Strong Testimonials](https://wordpress.org/plugins/strong-testimonials/)
+- [Easy Testimonials](https://wordpress.org/plugins/easy-testimonials/)
+- [Google Places Reviews](https://wordpress.org/plugins/google-places-reviews/)
+
+
+### Typography  
+- [Google Typography](https://wordpress.org/plugins/google-typography/)
+- [Easy Google Fonts](https://wordpress.org/plugins/easy-google-fonts/)
+- [WP Google Fonts](https://wordpress.org/plugins/wp-google-fonts/)
+- [Seed Fonts](https://wordpress.org/plugins/seed-fonts/)
+
 ### Theme Test Plugin
-  - [Theme Check](https://wordpress.org/plugins/theme-check/)
-	- [Theme Sniffer](https://wordpress.org/plugins/theme-sniffer/)
+- [Theme Check](https://wordpress.org/plugins/theme-check/)
+- [Theme Sniffer](https://wordpress.org/plugins/theme-sniffer/)
+- [Monster Widget](https://wordpress.org/plugins/monster-widget/)
+
 ### Taxonomy Plugins
-  - [Category Order and Taxonomy Terms Order](https://wordpress.org/plugins/taxonomy-terms-order/)
-	- [Related Posts by Taxonomy](https://wordpress.org/plugins/related-posts-by-taxonomy/)
-	- [Simple Taxonomy Ordering](https://wordpress.org/plugins/simple-taxonomy-ordering/)
-	- [Custom Taxonomy Order](https://wordpress.org/plugins/custom-taxonomy-order-ne/)
-	- [List Custom Taxonomy Widget](https://wordpress.org/plugins/list-custom-taxonomy-widget/)
+- [Category Order and Taxonomy Terms Order](https://wordpress.org/plugins/taxonomy-terms-order/)
+- [Related Posts by Taxonomy](https://wordpress.org/plugins/related-posts-by-taxonomy/)
+- [Simple Taxonomy Ordering](https://wordpress.org/plugins/simple-taxonomy-ordering/)
+- [Custom Taxonomy Order](https://wordpress.org/plugins/custom-taxonomy-order-ne/)
+- [List Custom Taxonomy Widget](https://wordpress.org/plugins/list-custom-taxonomy-widget/)
+
 ### Underconstruction Plugin
-  - [Coming Soon Page & Maintenance Mode by SeedProd](https://wordpress.org/plugins/coming-soon/)
-	- [WP Maintenance Mode](https://wordpress.org/plugins/wp-maintenance-mode/)
-	- [Minimal Coming Soon & Maintenance Mode](https://wordpress.org/plugins/minimal-coming-soon-maintenance-mode/)
-	- [Maintenance](https://wordpress.org/plugins/maintenance/)
-	- [Under Construction](https://wordpress.org/plugins/under-construction-page/)
-	- [CMP – Coming Soon & Maintenance Plugin by NiteoThemes](https://wordpress.org/plugins/cmp-coming-soon-maintenance/)
+- [Coming Soon Page & Maintenance Mode by SeedProd](https://wordpress.org/plugins/coming-soon/)
+- [WP Maintenance Mode](https://wordpress.org/plugins/wp-maintenance-mode/)
+- [Minimal Coming Soon & Maintenance Mode](https://wordpress.org/plugins/minimal-coming-soon-maintenance-mode/)
+- [Maintenance](https://wordpress.org/plugins/maintenance/)
+- [Under Construction](https://wordpress.org/plugins/under-construction-page/)
+- [CMP – Coming Soon & Maintenance Plugin by NiteoThemes](https://wordpress.org/plugins/cmp-coming-soon-maintenance/)
+
 ### WooCommerce
 
 
