@@ -67,16 +67,68 @@ List of friendly, easily usable GPL plugins in WordPress Ecosystem. List by [WPM
 - [Yoast Comments Hacks](https://wordpress.org/plugins/yoast-comment-hacks/)
 
 ### Contact Form
+- [Contact Form 7](https://wordpress.org/plugins/contact-form-7/)
+- [WPForms](https://wordpress.org/plugins/wpforms-lite/)
+- [Ninja Forms](https://wordpress.org/plugins/ninja-forms/)
+- [Caldera Forms](https://wordpress.org/plugins/caldera-forms/)
+- [Gravity Forms](https://www.gravityforms.com/)
+- [Gravity Forms Entries in Excel](https://wordpress.org/plugins/gf-entries-in-excel/)
+- [CFDB](https://cfdbplugin.com/)
+- [CFDB7](https://wordpress.org/plugins/contact-form-cfdb7/)
+
 ### Conversion Optimization
+- [Optimizely X](https://wordpress.org/plugins/optimizely-x/)
+- [Popups by OptinMonster](https://wordpress.org/plugins/optinmonster/)
+- [SumoMe](https://wordpress.org/plugins/sumome/)
+- [Popup Maker](https://wordpress.org/plugins/popup-maker/)
+- [ClickFunnels](https://wordpress.org/plugins/clickfunnels/)
+- [Unbounce Landing Pages](https://wordpress.org/plugins/unbounce/)
+- [Instapage](https://wordpress.org/plugins/instapage/)
+- [Simple Page Tester](https://wordpress.org/plugins/simple-page-tester/)
+
 ### Crowdfunding
+- [WP Crowdfunding](https://wordpress.org/plugins/wp-crowdfunding/)
+- [Give](https://wordpress.org/plugins/give/)
+
 ### CRM Plugins
+- [WP ERP](https://wordpress.org/plugins/erp/)
+- [CiviCRM](https://civicrm.org/wordpress)
+
 ### Dashboard
+- [Remove Dashboard Access](https://wordpress.org/plugins/remove-dashboard-access-for-non-admins/)
+- [Admin Columns](https://wordpress.org/plugins/codepress-admin-columns/)
+- [Custom Login](https://wordpress.org/plugins/admin-custom-login/)
+- [Slate Admin Theme](https://wordpress.org/plugins/slate-admin-theme/)
+
 ### Database
+- [ARI Adminer](https://wordpress.org/plugins/ari-adminer/)
+- [WPOptimize](https://wordpress.org/plugins/wp-optimize/)
+- [Optimize Database after Deleting Revisions](https://wordpress.org/plugins/rvg-optimize-database/)
+
 ### Developer tools(Post Types, Custom Fields and other developer friendly plugins) 
+- [Pods](https://wordpress.org/plugins/pods/)
+- [Toolset Types](https://wordpress.org/plugins/types/)
+- [Advance Custom Fields](https://wordpress.org/plugins/advanced-custom-fields/)
+- [CPT UI](https://wordpress.org/plugins/custom-post-type-ui/)
+- [Query Monitor](https://wordpress.org/plugins/query-monitor/)
+- [WP Reset](https://wordpress.org/plugins/wp-reset/)
+
 ### Directory
+- [GeoDirectory](https://wordpress.org/plugins/geodirectory/)
+- [Business Directory](https://wordpress.org/plugins/business-directory-plugin/)
+
 ### Ecommerce
+- [WooCommerce](https://wordpress.org/plugins/woocommerce/)
+- [Easy Digital Downloads](https://wordpress.org/plugins/easy-digital-downloads/)
+- [Jigoshop](https://wordpress.org/plugins/jigoshop-ecommerce/)
+
 ### Elementor Addons
 ### Gallery
+- [Modula Image Gallery](https://wordpress.org/plugins/modula-best-grid-gallery/)
+- [Envira Gallery](https://wordpress.org/plugins/envira-gallery-lite/)
+- [FooGallery](https://wordpress.org/plugins/foogallery/)
+- [NextGen Gallery](https://wordpress.org/plugins/nextgen-gallery/)
+
 ### GDPR Compliance Plugins
 ### Google Maps
 ### Gutenberg Blocks
@@ -93,7 +145,6 @@ List of friendly, easily usable GPL plugins in WordPress Ecosystem. List by [WPM
 ### Optimization
 ### Page Builders
 ### Page, Post Management
-### Popups
 ### Progressive Web Apps
 ### Related Posts
 ### Redirect Management
@@ -106,6 +157,12 @@ List of friendly, easily usable GPL plugins in WordPress Ecosystem. List by [WPM
 ### Sliders
 ### SSL Management
 ### Table Management
+- [TablePress](https://wordpress.org/plugins/tablepress/)
+- [Easy Pricing Tables](https://wordpress.org/plugins/easy-pricing-tables/)
+- [Pricing Table](https://wordpress.org/plugins/tc-pricing-table/)
+
+
+### Testimonials
 ### Typography
 ### Theme Test Plugin
 ### Taxonomy Plugins
