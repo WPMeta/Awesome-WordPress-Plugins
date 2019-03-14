@@ -173,7 +173,9 @@ List of friendly, easily usable GPL plugins in WordPress Ecosystem. List by [WPM
 - [MobiLoud](https://wordpress.org/plugins/mobiloud-mobile-app-plugin/)
 
 ### Multilingual
-
+- [WPML](https://wpml.org/)
+- [Polylang](https://wordpress.org/plugins/polylang/)
+- [Translate WP website – Weglot Translate](https://wordpress.org/plugins/weglot/)
 
 ### Newsletter
 - [Mailchimp for WordPress](https://wordpress.org/plugins/mailchimp-for-wp/)
@@ -205,9 +207,23 @@ List of friendly, easily usable GPL plugins in WordPress Ecosystem. List by [WPM
 - [PWA for WordPress](https://wordpress.org/plugins/pwa4wp/)
 
 ### Related Posts
+- [Related Posts by Taxonomy](https://wordpress.org/plugins/related-posts-by-taxonomy/)
+- [Shareaholic](https://wordpress.org/plugins/shareaholic/)
+
+
 ### Redirect Management
+- [Redirection](https://wordpress.org/plugins/redirection/)
+- [Simple 301 Redirects](https://wordpress.org/plugins/simple-301-redirects/)
+
 ### Search 
+- [Relevanssi - A Better Search](https://wordpress.org/plugins/relevanssi/)
+- [Search by Algolia](https://wordpress.org/plugins/search-by-algolia-instant-relevant-results/)
+
 ### Search Engine Optimization
+- [Yoast SEO](https://wordpress.org/plugins/wordpress-seo/)
+- [All in One SEO Pack](https://wordpress.org/plugins/all-in-one-seo-pack/)
+- [WordPress SEO Plugin - RankMath](https://wordpress.org/plugins/seo-by-rank-math/)
+- [Schema - All in one Schema Rich Snippets](https://wordpress.org/plugins/all-in-one-schemaorg-rich-snippets/)
 
 ### Security Plugins
 - [Wordfence Security – Firewall & Malware Scan](https://wordpress.org/plugins/wordfence/)
@@ -242,6 +258,8 @@ List of friendly, easily usable GPL plugins in WordPress Ecosystem. List by [WPM
 - [Slider by 10Web – Responsive Image Slider](https://wordpress.org/plugins/slider-wd/)
 
 ### SSL Management
+- [Really Simple SSL](https://wordpress.org/plugins/really-simple-ssl/)
+
 ### Table Management
 - [TablePress](https://wordpress.org/plugins/tablepress/)
 - [Easy Pricing Tables](https://wordpress.org/plugins/easy-pricing-tables/)
