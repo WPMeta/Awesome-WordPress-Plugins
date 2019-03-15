@@ -105,6 +105,7 @@ List of friendly, easily usable GPL plugins in WordPress Ecosystem. List by [WPM
 - [ARI Adminer](https://wordpress.org/plugins/ari-adminer/)
 - [WPOptimize](https://wordpress.org/plugins/wp-optimize/)
 - [Optimize Database after Deleting Revisions](https://wordpress.org/plugins/rvg-optimize-database/)
+- [Jarvis - admin assistant](https://wordpress.org/plugins/jarvis/)
 
 ### Developer tools(Post Types, Custom Fields and other developer friendly plugins) 
 - [Pods](https://wordpress.org/plugins/pods/)
