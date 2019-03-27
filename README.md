@@ -114,6 +114,8 @@ List of friendly, easily usable GPL plugins in WordPress Ecosystem. List by [WPM
 - [CPT UI](https://wordpress.org/plugins/custom-post-type-ui/)
 - [Query Monitor](https://wordpress.org/plugins/query-monitor/)
 - [WP Reset](https://wordpress.org/plugins/wp-reset/)
+- [Simple Theme Demo Importer](https://wordpress.org/plugins/simple-theme-demo-importer/)
+- [Widget Importer Exporter](https://wordpress.org/plugins/widget-importer-exporter)
 
 ### Directory
 - [GeoDirectory](https://wordpress.org/plugins/geodirectory/)
