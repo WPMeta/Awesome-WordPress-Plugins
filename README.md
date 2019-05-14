@@ -218,6 +218,9 @@ List of friendly, easily usable GPL plugins in WordPress Ecosystem. List by [WPM
 - [Redirection](https://wordpress.org/plugins/redirection/)
 - [Simple 301 Redirects](https://wordpress.org/plugins/simple-301-redirects/)
 
+### Rest API
+- [HearBeat Control](https://wordpress.org/plugins/heartbeat-control/)
+
 ### Search 
 - [Relevanssi - A Better Search](https://wordpress.org/plugins/relevanssi/)
 - [Search by Algolia](https://wordpress.org/plugins/search-by-algolia-instant-relevant-results/)
