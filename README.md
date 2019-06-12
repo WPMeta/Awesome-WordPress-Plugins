@@ -112,6 +112,7 @@ List of friendly, easily usable GPL plugins in WordPress Ecosystem. List by [WPM
 - [Toolset Types](https://wordpress.org/plugins/types/)
 - [Advance Custom Fields](https://wordpress.org/plugins/advanced-custom-fields/)
 - [CPT UI](https://wordpress.org/plugins/custom-post-type-ui/)
+- [CMB2](https://wordpress.org/plugins/cmb2/)
 - [Query Monitor](https://wordpress.org/plugins/query-monitor/)
 - [WP Reset](https://wordpress.org/plugins/wp-reset/)
 - [Simple Theme Demo Importer](https://wordpress.org/plugins/simple-theme-demo-importer/)
