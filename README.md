@@ -237,6 +237,7 @@ List of friendly, easily usable GPL plugins in WordPress Ecosystem. List by [WPM
 - [iThemes Security (formerly Better WP Security)](https://wordpress.org/plugins/better-wp-security/)
 - [Sucuri Security – Auditing, Malware Scanner and Security Hardening](https://wordpress.org/plugins/sucuri-scanner/)
 - [Limit Login Attempts Reloaded](https://wordpress.org/plugins/limit-login-attempts-reloaded/)
+- [Astra Security](https://wordpress.org/plugins/getastra/)
 
 ### Social Media Share 
 - [Social Media Share Buttons & Social Sharing Icons](https://wordpress.org/plugins/ultimate-social-media-icons/)
