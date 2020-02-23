@@ -193,6 +193,7 @@ List of friendly, easily usable GPL plugins in WordPress Ecosystem. List by [WPM
 
 ### Optimization
 - [Autoptimize](https://wordpress.org/plugins/autoptimize/)
+- [Asset Cleanup: Page Speed Booster](https://wordpress.org/plugins/wp-asset-clean-up/)
 
 ### Page Builders
 - [Page builder by Site Origin](https://wordpress.org/plugins/siteorigin-panels/)
