@@ -161,11 +161,15 @@ List of friendly, easily usable GPL plugins in WordPress Ecosystem. List by [WPM
 - [LifterLMS](https://wordpress.org/plugins/lifterlms/)
 - [LearnPress](https://wordpress.org/plugins/learnpress/)
 
+### Logs 
+- [Simple History](https://wordpress.org/plugins/simple-history/)
+
 ### Menu Plugins
 - [QuadMenu](https://wordpress.org/plugins/quadmenu/)
 - [WP Mega Menu](https://wordpress.org/plugins/wp-megamenu/)
 - [Max mega Menu](https://wordpress.org/plugins/megamenu/)
 - [Nav Menu Roles](https://wordpress.org/plugins/nav-menu-roles/)
+- [Custom Fields for Menu](https://wordpress.org/plugins/wp-menu-custom-fields/)
 
 ### Membership & User Managements
 - [Ultimate Member](https://wordpress.org/plugins/ultimate-member/)
