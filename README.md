@@ -263,6 +263,7 @@ List of friendly, easily usable GPL plugins in WordPress Ecosystem. List by [WPM
 
 ### Sidebar & Widgets
 - [Widget Logic](https://wordpress.org/plugins/widget-logic/)
+- [FerimanEdge Regime Widget](https://wordpress.org/plugins/ferimanedge-regime-widget/)
 
 ### Sliders
 - [Smart Slider 3](https://wordpress.org/plugins/smart-slider-3/)
